@@ -82,7 +82,7 @@ config
         service  M365-Sharepoint
             name                  M365-Sharepoint
             description           "SharePoint Online and OneDrive for Business"
-            application-name      O365-Sharepoint
+            application-name      O365-SharePoint
             share-service-routes  false
         exit
 
